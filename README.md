@@ -1,4 +1,4 @@
-# map_drawer
+# 2D random Map in Python 
 Python 2D random map in nested list used with easygraphics lib
 For learning pruposes.
 
